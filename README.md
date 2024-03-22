@@ -22,10 +22,13 @@ This repository contains three main files:
 
 If you wish to use the semantics provided in this repository in your research or publications, please ensure to cite the relevant work as follows:
 
-@article{Yue_CDGZSL2024,
-title={Less but Better: Enabling Generalized Zero-shot Learning Towards Unseen Domains by Intrinsic Learning from Redundant LLM Semantics},
-author={Jiaqi Yue, Jiancheng Zhao, and Chunhui Zhao},
-year={2024}
+@misc{yue2024better,
+      title={Less but Better: Enabling Generalized Zero-shot Learning Towards Unseen Domains by Intrinsic Learning from Redundant LLM Semantics}, 
+      author={Jiaqi Yue and Jiancheng Zhao and Chunhui Zhao},
+      year={2024},
+      eprint={2403.14362},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 
 ## Disclaimer
