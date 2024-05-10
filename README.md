@@ -1,6 +1,6 @@
 # Semantic Annotations for Office-Home and Mini-DomainNet
 
-Welcome to our repository where we provide semantic annotations for the Office-Home [1] and Mini-DomainNet [2] datasets. The annotations are intended to facilitate research in cross-domain generalized zero-shot learning.
+Welcome to our repository where we provide semantic annotations for the Office-Home [1] and Mini-DomainNet [2] datasets. The annotations are intended to facilitate research in cross-domain generalized zero-shot learning (CDGZSL) [3] proposed by us.
 
 ## Repository Contents
 
@@ -40,3 +40,5 @@ The `attr_matrix_Officehome.xlsx` file, while hand-annotated, could also be subj
 [1] H. Venkateswara, J. Eusebio, S. Chakraborty, and S. Panchanathan, “Deep hashing network for unsupervised domain adaptation,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2017, pp. 5018–5027.
 
 [2] K. Zhou, Y. Yang, Y. Qiao, and T. Xiang, “Domain adaptive ensemble learning,” IEEE Transactions on Image Processing, vol. 30, pp. 8008–8018, 2021.
+
+[3] J. Yue, J. Zhao and C. Zhao, “Less but Better: Enabling Generalized Zero-shot Learning Towards Unseen Domains by Intrinsic Learning from Redundant LLM Semantics,” arXiv preprint arXiv:2403.14362, 2024.
